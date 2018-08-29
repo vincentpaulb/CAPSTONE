@@ -1,0 +1,50 @@
+#bg
+{
+	background: url(bground.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#logo
+{
+	height: 75%;
+	width: 75%;
+	float: right;
+}
+
+#webname
+{
+	font-family: Century; 
+	font-weight: bold;
+	text-align: left;
+	font-size: 20px;
+	text-decoration: none;
+	color: black;
+
+}
+
+hr.style, hr.style2{
+	height: 10px;
+	border: 0;
+	box-shadow: 0 10px 10px -10px #8c8b8b inset;
+}
+
+#nav
+{
+	font-family: Century;
+	font-size: 25px;
+	text-align: center;
+	color: black;
+	list-style-type:none
+}
+
+.btn
+{
+	background-color: #d9534f;
+}
+
+.btn:hover
+{
+	color: black;
+	background-color: white;
+}
